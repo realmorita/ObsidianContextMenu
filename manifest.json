@@ -1,0 +1,10 @@
+{
+	"id": "add-images-context-menu",
+	"name": "ローカルコンテンツ埋め込み",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "コンテキストメニューからローカルの画像や動画をノートに埋め込みます。",
+	"author": "morita",
+	"authorUrl": "https://github.com/realmorita",
+	"isDesktopOnly": true
+}
