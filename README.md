@@ -1,0 +1,2 @@
+# ObsidianContextMenu
+自分用のコンテキストメニュー改造プラグイン
